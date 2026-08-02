@@ -4,7 +4,9 @@
 
 ### Frontend Developer • React & Next.js Learner • Pakistan 🇵🇰
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Next.js+Learner;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" alt="Typing Animation"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Next.js+Learner;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</p>
 
 <br>
 
