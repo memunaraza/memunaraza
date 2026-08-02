@@ -178,3 +178,42 @@ const memuna = {
 <img src="https://komarev.com/ghpvc/?username=memunaraza&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<p>
+<i>Snake animation will appear after GitHub Actions workflow is added.</i>
+</p>
+
+<img src="https://raw.githubusercontent.com/memunaraza/memunaraza/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+
+</div>
+
+
