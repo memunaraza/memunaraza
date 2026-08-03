@@ -136,4 +136,176 @@ const memuna = {
 
 </div>
 
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=memunaraza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memunaraza&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=memunaraza&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
+
+<div align="center">
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=memunaraza&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=memunaraza&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+| Project | Stack | Status |
+|---------|-------|:------:|
+| 🌐 Portfolio | Next.js + Tailwind | ✅ |
+| 📝 BlogNest | React | 🚧 |
+| 💻 DevFlow | Next.js | 🚧 |
+| 🏥 MediSync | Next.js | 🚧 |
+| 🛒 E-Commerce | React | 🚧 |
+| 📚 JavaScript Notes | JavaScript | ✅ |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+<a href="mailto:memuna.raza72@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/memunaraza">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=memunaraza&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF"/>
+
+</div>
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/memunaraza/memunaraza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💡 Developer Mindset
+
+> **"Great software is built one commit at a time."**
+
+<br>
+
+```javascript
+while (!success) {
+    learn();
+    build();
+    commit();
+    push();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 📌 Current Focus
+
+</div>
+
+- ⚛️ Mastering **React**
+- ▲ Learning **Next.js**
+- 📘 Exploring **TypeScript**
+- 🎨 Building Modern UI
+- 🚀 Creating Professional Projects
+- 💼 Preparing for Frontend Internship
+
+---
+
+<div align="center">
+
+# ⭐ Fun Facts
+
+💙 Love Clean UI
+
+⚡ Coffee + Code
+
+🎯 Continuous Learning
+
+🌙 Night Coder
+
+📱 Responsive Design Lover
+
+</div>
+
+---
+
+<div align="center">
+
+# ❤️ Support My Work
+
+If you like my projects, don't forget to ⭐ my repositories.
+
+<br><br>
+
+<a href="https://github.com/memunaraza?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=58A6FF&section=footer"/>
+
+### Thanks for visiting my profile 💙
+
+**Happy Coding 🚀**
+
+</div>
