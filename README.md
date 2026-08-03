@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.webp" width="100%" alt="Banner"/>
+<!-- <img src="assets/banner.webp" width="100%" alt="Banner"/> -->
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;Next.js+Learner;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=timetonewroman&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;Next.js+Learner;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀"/>
 
 <br><br>
 
@@ -140,9 +140,9 @@ const memuna = {
 
 # 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=memunaraza&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=memunaraza&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memunaraza&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memunaraza&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
@@ -154,20 +154,9 @@ const memuna = {
 
 <div align="center">
 
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=memunaraza&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=memunaraza&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=memunaraza&theme=github-dark&hide_border=true"/>
 </div>
 
 ---
